@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "",
+    "image": "😎",
+    "from": "",
+    "nutrients": "",
+    "rating": "4 ",
+    "price": "6.50",
+    "exclusive": true,
+    "description": ""
+  },
+  {
+    "id": 1,
+    "productName": "Heart-Face Emoji",
+    "image": "😍",
+    "from": "",
+    "nutrients": "",
+    "rating": "250",
+    "price": "5.00",
+    "organic": false,
+    "description": ""
+  },
+  {
+    "id": 2,
+    "productName": "",
+    "image": "😁",
+    "from": "",
+    "nutrients": "",
+    "rating": "",
+    "price": "5.50",
+    "exclusive": true,
+    "description": ""
+  },
+  {
+    "id": 3,
+    "productName": "",
+    "image": "🤑",
+    "from": "",
+    "nutrients": "",
+    "rating": "",
+    "price": "3.00",
+    "exclusive": true,
+    "description": ""
+  },
+  {
+    "id": 4,
+    "productName": "",
+    "image": "",
+    "from": "",
+    "nutrients": "",
+    "rating": "",
+    "price": "2.00",
+    "exclusive": false,
+    "description": ""
+  }
+]

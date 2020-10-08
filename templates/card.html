@@ -1,0 +1,25 @@
+<figure class="card">
+    <div class="card__emoji">{%imgItem} {%imgItem}</div>
+    <div class="card__title-box">
+      <h2 class="card__title">{%strTitle}</h2>
+    </div>
+
+    <div class="card__details">
+      <div class="card__detail-box {%is_exclusive}">
+        <h6 class="card__detail card__detail--organic">exclusive</h6>
+      </div>
+    
+
+      <div class="card__detail-box">
+        <h6 class="card__detail">{%intQuantity}g per {%imgItem}</h6>
+      </div>
+
+      <div class="card__detail-box">
+        <h6 class="card__detail card__detail--price">{%intPrice}€</h6>
+      </div>
+    </div>
+
+    <a class="card__link" href="/product/?id={%intId}">
+      <span>Detail <i class="emoji-right">👉</i></span>
+    </a>
+  </figure>
